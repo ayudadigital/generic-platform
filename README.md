@@ -1,7 +1,3 @@
-# DEPRECATED
-
-Please visit https://github.com/tpbtools/generic-platform
-
 # Generic Platform
 
 ## Objective
